@@ -11,6 +11,12 @@ initial upload
 sudo apt-get install git
 git clone https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1.git
 ```
+## How to Build and Run
+```
+cd src
+make
+./run
+```
 
 ## Q & A
 If you have some questions, 
