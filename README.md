@@ -13,7 +13,7 @@ git clone https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1.git
 
 ## Q & A
 If you have some questions, 
-you can use ISSUE tab on the top of this documents.
+you can use Issues tab on the top of this documents.
 
 ## About Implementation of the Program
 In implementing the program, you can modify the Skeleton Code freely.
