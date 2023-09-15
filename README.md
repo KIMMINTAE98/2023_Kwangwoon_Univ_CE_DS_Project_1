@@ -32,10 +32,10 @@ Please note that the Skeleton Code is for reference only and does not guarantee 
 
 ## How to chanage UI size in Ubuntu
 1. change font size : 
-gsettings set org.gnome.desktop.interface text-scaling-factor <ratio>
-ex. gsettings set org.gnome.desktop.interface text-scaling-factor 1      (default)
-ex. gsettings set org.gnome.desktop.interface text-scaling-factor 1.5
+gsettings set org.gnome.desktop.interface text-scaling-factor <ratio><br/>
+ex. gsettings set org.gnome.desktop.interface text-scaling-factor 1      (default)<br/>
+ex. gsettings set org.gnome.desktop.interface text-scaling-factor 1.5<br/>
 
 2. change display scale : 
-Setting -> Devices -> Displays -> Scale 
+Setting -> Devices -> Displays -> Scale <br/>
 ![image](https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1/assets/26856370/99b1e095-560a-48d9-bb72-8859cb13322b)
