@@ -38,4 +38,5 @@ ex. gsettings set org.gnome.desktop.interface text-scaling-factor 1.5
 
 2. change display scale : 
 Setting -> Devices -> Displays -> Scale
+
 ![image](https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1/assets/26856370/99b1e095-560a-48d9-bb72-8859cb13322b)
